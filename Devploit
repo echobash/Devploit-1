@@ -57,7 +57,7 @@ def menu():
 
 \033[91m 2 \033[92m)\033[96m ..Whois Lookup
 
-\033[91m 3 \033[92m)\033[96m ...Revrse IP Lookup
+\033[91m 3 \033[92m)\033[96m ...Reverse IP Lookup
 
 \033[91m 4 \033[92m)\033[96m ....GeoIP Lookup
 
